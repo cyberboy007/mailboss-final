@@ -28,10 +28,11 @@ recurring mails to the recipients.
     - Mail Body
     - Schedule Selector  
 - Scheduling Features-
-    - Recurring Schedule
-    - Weekly Schedule
-    - Monthly Schedule
-    - Yearly Schedule
+    - You can send mail on any date or time 
+    - SOOO YOU CAN Send it on any Schedule
+    - Weekly 
+    - Monthly 
+    - Yearly
  - Text editing Features-
     - Making text Bold or Italic
     - Changing font-color
